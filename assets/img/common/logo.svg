@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="162" viewBox="0 0 560 162" role="img" aria-label="きみが死ぬまで恋をしたい">
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1E8C86"/>
+      <stop offset="1" stop-color="#39C5BB"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#lg)">
+    <text x="280" y="74" text-anchor="middle" font-family="'Shippori Mincho','Yu Mincho','Hiragino Mincho ProN',serif" font-size="60" font-weight="600" letter-spacing="2">きみが死ぬまで恋をしたい</text>
+  </g>
+  <g stroke="#39C5BB" stroke-width="1" opacity=".55">
+    <line x1="32" y1="100" x2="200" y2="100"/>
+    <line x1="360" y1="100" x2="528" y2="100"/>
+  </g>
+  <g fill="#39C5BB" opacity=".9">
+    <circle cx="280" cy="100" r="2.6"/>
+    <circle cx="262" cy="100" r="1.6"/>
+    <circle cx="298" cy="100" r="1.6"/>
+  </g>
+  <text x="280" y="136" text-anchor="middle" font-family="'Cormorant Infant','Times New Roman',serif" font-size="21" font-weight="500" letter-spacing="3.2" fill="#171E2B" opacity=".78">I Want to Love You Till Your Dying Day.</text>
+</svg>

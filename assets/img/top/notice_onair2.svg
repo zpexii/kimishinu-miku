@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="352" height="120" viewBox="0 0 352 120" fill="none">
+  <g transform="translate(176 60)">
+    <path d="M-150 0 a150 26 0 0 1 300 0 a150 26 0 0 1 -300 0" fill="#39C5BB"/>
+    <path d="M-142 0 a142 22 0 0 1 284 0 a142 22 0 0 1 -284 0" fill="none" stroke="#fff" stroke-width="1.2" stroke-dasharray="4 6"/>
+    <text x="0" y="9" text-anchor="middle" font-family="'Shippori Mincho','Yu Mincho',serif" font-size="34" font-weight="700" letter-spacing="3" fill="#fff">2026.07 ON AIR</text>
+  </g>
+</svg>
